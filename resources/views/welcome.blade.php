@@ -55,8 +55,8 @@
             <div class="message">
                 <a class="twitter-link" href="http://twitter.com/home/?status=I%20created%20a%20project%20with%20AWS%20CodeStar!%20%23AWS%20%23AWSCodeStar%20https%3A%2F%2Faws.amazon.com%2Fcodestar"><img src="{{ asset('img/tweet.svg') }}" /></a>
                 <div class="text">
-                    <h1>FGA PHP Lavarel by Codestar</h1>
-                    <h2>Koko Al Musqid - Kelas B</h2>
+                    <h1>DTS Lavarel App With Codestar</h1>
+                    <h2>By Koko Al Musqid - Kelas B</h2>
                 </div>
             </div>
         </div>
